@@ -4,7 +4,7 @@ using Serilog;
 using Serilog.Events;
 using Serilog.Sinks.SystemConsole.Themes;
 using WorkshopDemo.Core.Common;
-using WorkshopDemo.HealthChecks;
+ausing WorkshopDemo.HealthChecks;
 
 var builder = WebApplication.CreateBuilder(args);
 
